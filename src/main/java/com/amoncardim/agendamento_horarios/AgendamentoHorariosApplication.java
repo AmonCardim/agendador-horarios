@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class AgendamentoHorariosApplication {
 
-	public static void main(String[] args) {
+	void main(String[] args) {
 		SpringApplication.run(AgendamentoHorariosApplication.class, args);
 	}
-
 }
